@@ -1,0 +1,8 @@
+Installation
+
+git clone git://github.com/nelstorm.git ~/.vim
+
+Create symlinks:
+
+ln -s /dotfiles/vimrc ~/_vimrc
+ln -s /dotfiles/vimrc ~/_gvimrc
