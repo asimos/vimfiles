@@ -7,3 +7,6 @@
 [submodule "bundle/easymotion"]
 	path = bundle/easymotion
 	url = https://github.com/Lokaltog/vim-easymotion
+[submodule "bundle/minibufExpl"]
+	path = bundle/minibufExpl
+	url = https://github.com/fholgado/minibufexpl.vim
